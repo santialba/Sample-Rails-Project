@@ -16,6 +16,9 @@
 /tmp/*
 !/log/.keep
 !/tmp/.keep
+.powder
+.virb*
+*.*~
 
 # Ignore uploaded files in development
 /storage/*
